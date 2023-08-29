@@ -7,3 +7,7 @@ page3
 What a blessed morning
 
 new line
+
+QA: Shukhrat's changes
+
+String str = "Leo";
